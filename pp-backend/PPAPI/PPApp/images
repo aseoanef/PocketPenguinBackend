@@ -1,0 +1,78 @@
+<<<<<<< HEAD
+{
+    "name:"imagedefault",
+    'https:\//raspi\/martin.amor\/pp-backend\/raw\/e94a5943a7335d75615875e112f1387a5ae6c814\/PPAPI\/PPApp\/los_pinguinos.jpg',
+}
+=======
+[
+    {
+    "name":"pinguino1",
+    "url":"https://raw.githubusercontent.com/GaelRGuerreiro/fotosPingu/main/pinguino1.jpeg"
+    },
+
+
+    {
+    "name":"pinguino2",
+    "url":"https://raw.githubusercontent.com/GaelRGuerreiro/fotosPingu/main/pinguino2.jpeg"
+    },
+
+
+    {
+    "name":"pinguino3",
+    "url":"https://raw.githubusercontent.com/GaelRGuerreiro/fotosPingu/main/pinguino3.jpeg"
+    },
+
+
+    {
+    "name":"pinguino4",
+    "url":"https://raw.githubusercontent.com/GaelRGuerreiro/fotosPingu/main/pinguino4.jpeg"
+    },
+
+
+    {
+    "name":"pinguino5",
+    "url":"https://raw.githubusercontent.com/GaelRGuerreiro/fotosPingu/main/pinguino5.jpeg"
+    },
+
+
+    {
+    "name":"pinguino6",
+    "url":"https://raw.githubusercontent.com/GaelRGuerreiro/fotosPingu/main/pinguino6.jpeg"
+    },
+
+
+    {
+    "name":"pinguino7",
+    "url":"https://raspi/martin.amor/pp-backend/raw/master/PPAPI/PPApp/pinguino8.jpg"
+    }
+    ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> endpoint-user
